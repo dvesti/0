@@ -18,17 +18,14 @@ geometry:
 bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
-github-repo: "seankross/bookdown-start"
-url: "http\\://seankross.com/bookdown-start/"
-description: Everything you need (and nothing more) to start a bookdown book.
+#github-repo: "seankross/bookdown-start"
+#url: "http\\://seankross.com/bookdown-start/"
+description: Путешествие
 header-includes:
 - \usepackage{fontspec}
 - \usepackage{indentfirst}
 - \setlength\parindent{10mm}
 documentclass: book
-editor_options: 
-  markdown: 
-    wrap: sentence
 ---
 
 # По Золотой Теньке {#index}
