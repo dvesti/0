@@ -18,8 +18,8 @@ geometry:
 bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
-github-repo: dvesti/0
-url: "https\\://https://dvesti.github.io/0/"
+github-repo: "dvesti/0"
+url: 'https\://dvesti.github.io/0/'
 description: Путешествие на велосипеде
 header-includes:
 - \usepackage{fontspec}
