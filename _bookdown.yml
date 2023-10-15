@@ -2,6 +2,5 @@ book_filename: "0"
 chapter_name: "Глава "
 delete_merged_file: true
 output_dir: docs
-# rmd_files: ["index.Rmd", "02-poljus.Rmd", "03-Lena.Rmd", "04-BAM.Rmd", "05-Baikal.Rmd", "06-Transsib.Rmd", "07-Omsk.Rmd", "08-Kazahstan.Rmd", ]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
