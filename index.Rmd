@@ -18,9 +18,9 @@ geometry:
 bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
-#github-repo: "seankross/bookdown-start"
-#url: "http\\://seankross.com/bookdown-start/"
-description: Путешествие
+github-repo: "dvesti/0"
+url: "https\\://https://dvesti.github.io/0/"
+description: Путешествие на велосипеде
 header-includes:
 - \usepackage{fontspec}
 - \usepackage{indentfirst}
