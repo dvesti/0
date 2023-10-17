@@ -47,7 +47,7 @@ Baikal-02-10-1992
 Baikal-03-10-1992
 Baikal-04-10-1992
 Baikal-05-10-1992
-Transsib
+transsib
 Transsib-06-10-1992
 Transsib-07-10-1992
 Transsib-08-10-1992
@@ -141,4 +141,3 @@ Narva
 Narva-29-08-1993
 Narva-30-08-1993
 Narva-31-08-1993
-transsib
